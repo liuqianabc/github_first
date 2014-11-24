@@ -7,3 +7,4 @@
  */
 
 echo "bug";
+ehco "bug2"
